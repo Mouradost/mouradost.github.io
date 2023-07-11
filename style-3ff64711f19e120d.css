@@ -795,6 +795,10 @@ video {
   align-content: center;
 }
 
+.content-baseline {
+  align-content: baseline;
+}
+
 .items-center {
   align-items: center;
 }
